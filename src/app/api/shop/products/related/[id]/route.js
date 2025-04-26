@@ -1,0 +1,1 @@
+// fetch related products to current product
